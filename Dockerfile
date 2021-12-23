@@ -1,4 +1,4 @@
-FROM ubuntu:latest
+FROM balenalib/raspberry-pi2-ubuntu
 LABEL Description="Use the Balena CLI to perform actions"
 
 # Install the standalone balena-cli package
